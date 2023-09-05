@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MIC5504-3.3YMT-TR")(type "KiCad")(uri "${KIPRJMOD}/Imported Symbols and Footprints/ul_MIC5504-3-3YMT-TR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "BMI088")(type "KiCad")(uri "${KIPRJMOD}/Imported Symbols and Footprints/BMI088/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "MMC5983MA")(type "KiCad")(uri "${KIPRJMOD}/Imported Symbols and Footprints/MMC5983MA/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "UM Antenna")(type "KiCad")(uri "${KIPRJMOD}/Imported Symbols and Footprints/ul_636101111001/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "Terminal Block Horizontal")(type "KiCad")(uri "${KIPRJMOD}/Imported Symbols and Footprints/1824543")(options "")(descr ""))
+)
